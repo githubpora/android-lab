@@ -1,2 +1,2 @@
 # android-lab
-Android Homework and Project
+Android Final Project about a small application
