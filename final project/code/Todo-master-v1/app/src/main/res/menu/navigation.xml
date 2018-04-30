@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_tasks"
+        android:icon="@mipmap/task_gray"
+        android:title="任务"
+        />
+
+    <item
+        android:id="@+id/navigation_calendar"
+        android:icon="@mipmap/calendar_gray"
+        android:title="日历" />
+
+    <item
+        android:id="@+id/navigation_achievements"
+        android:icon="@mipmap/achievement_gray"
+        android:title="成就" />
+
+</menu>

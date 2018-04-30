@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="long_click_record">按住 说话</string>
+    <string name="hang_up_finsh">正在录音，点击结束</string>
+
+</resources>
